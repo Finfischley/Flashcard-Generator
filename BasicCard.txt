@@ -1,0 +1,6 @@
+Front of Card: Who directed Evil Dead? Back of Card: Sam Raimi
+Front of Card: __ directed Evil Dead. Back of Card: Sam Raimi directed Evil Dead.
+Front of Card: What is Superman's real name? Back of Card: Kal-El
+Front of Card: __ is Superman's real name. Back of Card: Kal-El is Superman's real name.
+Front of Card: __ developed the General Theory of Relativity. Back of Card: Albert Einstein developed the General Theory of Relativity.
+Front of Card: Who developed the General Theory of Relativity? Back of Card: Albert Einstein
